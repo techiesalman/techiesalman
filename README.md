@@ -1,8 +1,8 @@
 ### Hi, I'm Salman 👋 <br />
 
 🔥 A Full Stack Software Developer based in Mumbai.  <br />
-✨ Favorite Tech: Angular, .Net Core, Solidity  <br />
+✨ Favorite Tech: Angular, .Net Core, MS SQL, NestJS  <br />
 😂 I believe tabs are better than spaces.  <br />
-✉️ hi@techiesalman.com  <br />
-🧔🏻 Portfolio: https://techiesalman.com/   <br />
+✉️ hi@salmankhan.dev  <br />
+🧔🏻 Portfolio: https://salmankhan.dev/   <br />
 💼 LinkedIn: https://www.linkedin.com/in/techiesalman/
